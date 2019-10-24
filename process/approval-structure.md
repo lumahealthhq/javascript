@@ -1,3 +1,0 @@
-#### Approval Structure
-
-* TBD

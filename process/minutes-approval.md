@@ -1,0 +1,3 @@
+#### Minutes Approval Structure
+
+* TBD
